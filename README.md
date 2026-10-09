@@ -1,0 +1,2 @@
+# Blog
+Blog HRtoGO Consulting
